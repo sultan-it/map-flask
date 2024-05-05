@@ -1,5 +1,5 @@
 # save this as app.py
-from flask import Flask,redirect
+from flask import Flask, redirect
 import requests
 
 app = Flask(__name__)
