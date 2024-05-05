@@ -12,4 +12,4 @@ def map_link():
 
     map_url = redirect(f"https://www.google.com/maps/search/?api=1&query={longitude},{latitude}")
     return map_url
-
+app.run()
