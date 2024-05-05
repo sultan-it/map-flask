@@ -1,4 +1,2 @@
-flask
-flask-requests
-requests
-Gunicorn
+Flask==2.1.2
+requests==2.27.1
